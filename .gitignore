@@ -1,0 +1,6 @@
+.idea/
+Interest_Points_Matching_Homographies/images/*
+Practical_Instance_Recognition/data/*
+Practical_Instance_Recognition/vlfeat/*
+Practical_Instance_Recognition/doc/*
+SIFT_Features_Matching_and_RANSAC/images/*
